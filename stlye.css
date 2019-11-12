@@ -24,12 +24,13 @@ h1 {
 
 h2 {
    font-weight: 400;
-   font-size: 24px;
+   font-size: 20px;
    margin-top: 10px;
    scroll-margin-bottom: 10px;
    line-height: 1;
    margin-top: 10px;
    margin-bottom: 10px;
+   text-align: right;
 }
 
 p {
@@ -42,6 +43,8 @@ li {
 
 ul, ol {
    padding-left: 2em;
+   font-weight: bold;
+   font-size: 14px;
 }
 
 blockquote {
